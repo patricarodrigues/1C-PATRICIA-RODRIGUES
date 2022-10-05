@@ -9,9 +9,7 @@
 }
   #link {
    text-align:center;
-
-
-
+    
 p{
   color: red;
   font-size: 30;
@@ -39,10 +37,19 @@ h2 {
      border~500pbotton-left-radlus:x 
      border~
        
-       
-       
-       
-       
+.rodape {
+   border~TOP~style: solid
+   background: greenyellow;
+   margin-botom: -bpx;
+   margin-left: -bpx
+   margin-right; -bpx
+   padding: ipx;
+  } 
+    
+  #rodape2 {
+     color: blue;
+    text-align: center;
+  }
        
        
        
