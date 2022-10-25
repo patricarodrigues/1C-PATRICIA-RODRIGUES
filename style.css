@@ -26,7 +26,11 @@ h2 {
    color: green;
    font-size: 40
    text-aling: right;
-
+ lateral{
+    float: right;
+  }
+   
+  
   #imagem {
      text-allgn: center;
      border: 5px
